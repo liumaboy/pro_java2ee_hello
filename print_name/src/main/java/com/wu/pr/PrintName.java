@@ -10,7 +10,7 @@ public class PrintName {
     }
 
     public static void function_1_0(){
-        System.out.println("i am function 1.0");
+        System.out.println("i am function 1.0, and i am edited by the git website");
     }
 
 }
