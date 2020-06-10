@@ -20,7 +20,7 @@ public class PrintName {
     }
 
     public static void function_1_2(){
-        System.out.println("i am function 1.2, and i am add in 20200610.11:10");
+        System.out.println("i am function 1.2,for dep1.1, and i am add in 20200610.11:10");
     }
 
 }
