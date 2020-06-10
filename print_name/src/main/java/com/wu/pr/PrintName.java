@@ -13,4 +13,8 @@ public class PrintName {
         System.out.println("i am function 1.0, and i am edited by the git website");
     }
 
+    public static void function_1_1(){
+        System.out.println("i am function 1.1, and i am add in 20200610.10:01");
+    }
+
 }
